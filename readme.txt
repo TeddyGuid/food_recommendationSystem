@@ -1,8 +1,4 @@
-Le dossier contenant le fichier notebook de travail(model_saving.ipynb) est disponible ici:
- 
-   https://drive.google.com/drive/folders/1VzLStKzqvLuoE6nsqHatSzlkdyXdF0xt?usp=sharing
-
-   important: il doit etre executer afin de generer le fichier (foodRecommender.pkl) qui sera utiliser par les executables python
+Le dossier contenant le fichier notebook de travail(model_saving.ipynb) doit etre executer afin de generer le fichier (foodRecommender.pkl) qui sera utiliser par les executables python
 
 La dataset(food.csv ) est disponible ici:
 
